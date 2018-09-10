@@ -7,4 +7,7 @@ This is another commit.  I’m going to stop keeping track of things now.
 
 Cassie is making a change now, let's see if this works. 
 
+
+Hey, I like your code, but it would be better with this line. Ariane
+
 This is insert 2.
