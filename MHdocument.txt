@@ -1,9 +1,10 @@
-﻿This is my first commit. Yay!
+This is my first commit. Yay!
 This is my second text.
+This is insert 1.
 This is my fourth commit.  But first intentional one after the osxkeychain issue.
 
 This is another commit.  I’m going to stop keeping track of things now.
 
 Cassie is making a change now, let's see if this works. 
 
-
+This is insert 2.
